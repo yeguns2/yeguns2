@@ -4,7 +4,7 @@ I’m an **Undergraduate Computer Engineering major at UIUC**
 (*Expected Graduation: May 2027*).
 
 I’m passionate about **Embedded Systems, System-on-Chip (SoC) design, FPGA development, and Deep Learning hardware**.  
-I enjoy building systems end-to-end—starting from RTL and microarchitecture, all the way to software control, debugging, and performance evaluation on real hardware.
+I enjoy building systems end-to-end starting from RTL and microarchitecture, all the way to software control, debugging, and performance evaluation on real hardware.
 
 Most of my work so far has been **individually driven**, focusing on learning how real hardware behaves under **tight resource and performance constraints**.
 
