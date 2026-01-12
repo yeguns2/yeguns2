@@ -79,9 +79,7 @@ with clear descriptions of **my individual technical contributions**.
 ## 📫 Contact
 - **Email**: yeguns2@illinois.edu  
 - **LinkedIn**: https://www.linkedin.com/in/yegun-shim-0a659433b/  
-- **Resume**:
-  - https://github.com/yeguns2/yeguns2/blob/main/resume/Yegun_Shim_Resume.pdf
-  - https://yeguns2.github.io/assets/Yegun_Shim_Resume.pdf
+- **Resume**: https://yeguns2.github.io/assets/Yegun_Shim_Resume_f.pdf
 
 ---
 
